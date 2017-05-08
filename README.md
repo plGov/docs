@@ -1,7 +1,7 @@
 Dokumentacja
 =================
 
-![Logo](logo.svg)
+![Logo](https://cdn.rawgit.com/plGov/docs/master/logo.svg)
 
 # Opis
 
