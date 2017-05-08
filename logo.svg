@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="26.493067mm"
-   height="17.292622mm"
-   viewBox="0 0 93.873075 61.273068"
+   width="64.060455mm"
+   height="33.903526mm"
+   viewBox="0 0 226.98587 120.1306"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.2645161"
-     inkscape:cx="61.36833"
-     inkscape:cy="1.6548306"
+     inkscape:cx="114.61978"
+     inkscape:cy="60.512372"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,7 +58,8 @@
      id="layer1"
      transform="translate(-308.38123,-299.25018)">
     <g
-       id="g3410">
+       id="g3410"
+       transform="matrix(3.2777686,0,0,3.2777686,-742.77524,-721.97682)">
       <text
          sodipodi:linespacing="125%"
          id="text3347"
