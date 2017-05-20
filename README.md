@@ -5,6 +5,8 @@ Dokumentacja
 
 # Opis
 
+> The more we share, the more we have - Leonard Nimoy
+
 ## Cel
 
 Platforma plGov ma na celu wsparcie cyfryzacji instytucji publicznych w Polsce. 
